@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "021FB2781E3465BB00595D0F"
-               BuildableName = "Glasses-iOS.framework"
+               BuildableName = "Glasses.framework"
                BlueprintName = "Glasses-iOS"
                ReferencedContainer = "container:Glasses.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "021FB2781E3465BB00595D0F"
-            BuildableName = "Glasses-iOS.framework"
+            BuildableName = "Glasses.framework"
             BlueprintName = "Glasses-iOS"
             ReferencedContainer = "container:Glasses.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "021FB2781E3465BB00595D0F"
-            BuildableName = "Glasses-iOS.framework"
+            BuildableName = "Glasses.framework"
             BlueprintName = "Glasses-iOS"
             ReferencedContainer = "container:Glasses.xcodeproj">
          </BuildableReference>
