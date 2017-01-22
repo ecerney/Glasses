@@ -58,6 +58,14 @@ public enum Glasses: Int {
     let randomValue = Int(arc4random_uniform(UInt32(numCases)))
     return Glasses(rawValue: randomValue)!
   }
+
+  public var numPixelsHeight: Int {
+    return pixels.count
+  }
+
+  public var numPixelsWidth: Int {
+    return pixels.first?.count ?? 0
+  }
 }
 
 
