@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "9999"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_16"
-               BuildableName = "Glasses.framework"
-               BlueprintName = "Glasses"
+               BlueprintIdentifier = "021FB2781E3465BB00595D0F"
+               BuildableName = "Glasses-iOS.framework"
+               BlueprintName = "Glasses-iOS"
                ReferencedContainer = "container:Glasses.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_23"
-               BuildableName = "GlassesTests.xctest"
-               BlueprintName = "GlassesTests"
-               ReferencedContainer = "container:Glasses.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <AdditionalOptions>
       </AdditionalOptions>
@@ -55,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_16"
-            BuildableName = "Glasses.framework"
-            BlueprintName = "Glasses"
+            BlueprintIdentifier = "021FB2781E3465BB00595D0F"
+            BuildableName = "Glasses-iOS.framework"
+            BlueprintName = "Glasses-iOS"
             ReferencedContainer = "container:Glasses.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -70,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "021FB2781E3465BB00595D0F"
+            BuildableName = "Glasses-iOS.framework"
+            BlueprintName = "Glasses-iOS"
+            ReferencedContainer = "container:Glasses.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
