@@ -40,7 +40,7 @@ public enum Glasses: Int {
     }
   }
 
-  static var random: Glasses {
+  public static var random: Glasses {
     let randomValue = Int(arc4random_uniform(UInt32(numCases)))
     return Glasses(rawValue: randomValue)!
   }
