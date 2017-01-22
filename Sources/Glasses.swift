@@ -12,7 +12,7 @@ public enum Glasses: Int {
   case dealWithIt = 0
   case harryPotter
 
-  var pixels: [[Int]] {
+  public var pixels: [[Int]] {
     switch self {
     case .dealWithIt:
       return [
@@ -48,7 +48,7 @@ public enum Glasses: Int {
 
 
 // MARK: - Internal Methods
-internal extension Glasses {
+extension Glasses {
   static var numCases: Int {
     var max = 0
     while let _ = Glasses(rawValue: max) { max += 1 }
